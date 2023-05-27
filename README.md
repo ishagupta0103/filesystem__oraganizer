@@ -25,3 +25,10 @@ type `node main.js tree "dirPath"` to see the contents of the folder with path a
 To personalize the organize function  
 open `utility.js` in your favourite code editor, modify the types of organized folder add the file extensions accordingly then hit `save`  
 you can make as many types of folder as you want but be careful of not adding same extension in different types
+
+
+Extras'  
+To remove this application from global:  
+open your terminal  
+`npm list -g`
+go to the directory(**don't forget to tick show hidden folders**) written in the followed line and delete all files named as oggy  
