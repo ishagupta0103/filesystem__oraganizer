@@ -16,7 +16,7 @@ type `oggy help` to see the commands of this application
 type `oggy organize "dirPath"` to organize the folder with path as "dirPath"  
 type `oggy tree "dirPath"` to see the contents of the folder with path as "dirPath" in tree like format  
 
-From the filesystem__organizer directory  
+If not then from the filesystem__organizer directory  
 type `node main.js help` to see the commands of this application  
 type `node main.js organize "dirPath"` to organize the folder with path as "dirPath"  
 type `node main.js tree "dirPath"` to see the contents of the folder with path as "dirPath" in tree like format  
