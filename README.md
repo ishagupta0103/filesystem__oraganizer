@@ -29,6 +29,6 @@ you can make as many types of folder as you want but be careful of not adding sa
 
 Extras'  
 To remove this application from global:  
-open your terminal  
-`npm list -g`
+open your terminal   
+`npm list -g`  
 go to the directory(**don't forget to tick show hidden folders**) written in the followed line and delete all files named as oggy  
