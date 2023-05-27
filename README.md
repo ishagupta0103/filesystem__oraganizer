@@ -2,8 +2,10 @@
 A global command line application using Node.js. It organizes all your files from a folder into different sections so that you need not do it manually.
 
 # Quick Start
-`git clone https://github.com/ishagupta0103/filesystem__oraganizer.git`
-`npm install`
+`git clone https://github.com/ishagupta0103/filesystem__oraganizer.git`  
+`cd filesystem__organizer`
+`sudo npm link`
+
 
 # Working
 In your terminal-
