@@ -3,7 +3,7 @@ A global command line application using Node.js. It organizes all your files fro
 
 # Quick Start
 `git clone https://github.com/ishagupta0103/filesystem__oraganizer.git`  
-`cd filesystem__organizer`
+`cd filesystem__organizer`  
 `sudo npm link`
 
 
