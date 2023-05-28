@@ -29,7 +29,7 @@ open `utility.js` in your favourite code editor, modify the types of organized f
 you can make as many types of folder as you want but be careful of not adding same extension in different types
 
 
-Extras'  
+**Extras'**    
 To remove this application from global:  
 open your terminal   
 `npm list -g`  
