@@ -21,6 +21,8 @@ type `node main.js help` to see the commands of this application
 type `node main.js organize "dirPath"` to organize the folder with path as "dirPath"  
 type `node main.js tree "dirPath"` to see the contents of the folder with path as "dirPath" in tree like format  
 
+**Note :** If you don't provide path after organize and tree commands then these commands will run on the current working directory's path 
+
 # Personalization 💅
 To personalize the organize function  
 open `utility.js` in your favourite code editor, modify the types of organized folder add the file extensions accordingly then hit `save`  
